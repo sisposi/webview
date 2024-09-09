@@ -1,0 +1,36 @@
+{
+
+  "webViewGame": "aHR0cHM6Ly8yNDdpcHR2LnVrL2dhbWUvaW5kZXguaHRtbA==",
+
+  "adsPerClick": 3,
+
+  "applovinBanner": "44f88e6d31b9bf6a",
+  "applovinNative": "748cb44ac1ce28af",
+  "applovinInit": "7708a40b60712e04",
+  
+  "isMoreAppShow": true,
+  "moreApps": [
+    {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+      "name": "Twisted Tangle"
+      
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    },
+     {
+  "appUrl": "https://play.google.com/store/apps/details?id=com.crescivegames.twistedtangle",
+      "logo": "https://play-lh.googleusercontent.com/8qkQbqKQ2tnjgjrIJS3IX4QSY2COYh4uoduC8mz30jrEooIljB4RJ9YXxmJzckVMyFg=s512-rw",
+        "name": "Twisted Tangle"
+    }
+    
+  ]
+}
